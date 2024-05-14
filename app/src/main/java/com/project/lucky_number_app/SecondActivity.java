@@ -27,7 +27,7 @@ public class SecondActivity extends AppCompatActivity {
         EdgeToEdge.enable(this);
         setContentView(R.layout.activity_second);
 
-//ggggggggggggggggggggggggggggggggggggggggggggggggggggg
+
 
         welcomeTxt = findViewById(R.id.textView2);
         luckyNumberTxt = findViewById(R.id.lucky_number_txt);
